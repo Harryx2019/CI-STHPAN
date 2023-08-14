@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>vscode-remote://ssh-remote%2Byeslab/home/harryx/Documents/quant/%5B5%5DCI-STHPAN/Experiment/PatchTST_self_supervised/src/data/datasets/stock/NASDAQ_aver_line_dates.csv</string>
+</dict>
+</plist>
