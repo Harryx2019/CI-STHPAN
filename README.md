@@ -1,4 +1,4 @@
-# CI-STHPAN: Pre-Trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph
+# CI-STHPAN: Pre-Trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28770)
 
 ![Overview of the proposed CI-STHPAN.](./imgs/overview.png)
 
