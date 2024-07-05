@@ -46,13 +46,15 @@ Pre-training and fine-tuning of hypergraphs constructed based on wikidata relati
 ### Pretrain
 
 ```
-bash ./PatchTST_self_supervised/scripts/pretrain/pre_graph_wiki.sh
+cd ./CI-STHPAN_self_supervised
+bash ./scripts/pretrain/pre_graph_wiki.sh
 ```
 
 ### Finetune
 
 ```
-bash ./PatchTST_self_supervised/scripts/finetuned/[27]graph_wiki.sh
+cd ./CI-STHPAN_self_supervised
+bash ./scripts/finetuned/[27]graph_wiki.sh
 ```
 
 
